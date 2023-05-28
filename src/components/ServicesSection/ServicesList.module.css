@@ -1,0 +1,9 @@
+/** @format */
+.servicesContainer {
+  padding: 8rem 4rem;
+}
+.cardsContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 4rem;
+}

@@ -1,0 +1,25 @@
+/** @format */
+.featuresContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.featuresList {
+  padding:0rem 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+.featuresTitle {
+  margin-bottom: 1.2rem;
+}
+.featuresPara {
+  /* font-size: 1.4rem; */
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.featuresHeading {
+  font-size: 3.2rem;
+  font-weight: 400;
+  text-transform: capitalize;
+}

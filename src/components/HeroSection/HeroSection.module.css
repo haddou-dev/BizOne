@@ -1,0 +1,13 @@
+/** @format */
+
+.container {
+  background-image: url("../../assets/hero_img.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  background-color: #cccccc;
+  padding: 1rem 4rem;
+  height: 90vh;
+  /* display: flex;
+  flex-direction:column; */
+}

@@ -1,0 +1,20 @@
+/** @format */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.imgService {
+  width: 3.4rem;
+  height: 3.4rem;
+}
+.titleService {
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.DescService {
+  text-align: center;
+}

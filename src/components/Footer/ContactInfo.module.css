@@ -1,0 +1,17 @@
+/** @format */
+.contactInfoContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.contactInfo {
+  display: flex;
+  justify-content: space-between;
+}
+.contactInfoText{
+  color: #3a47e4;
+}
+.contactInfoIcons{
+  display: flex;
+  gap: .4rem;
+}

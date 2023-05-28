@@ -1,0 +1,28 @@
+/** @format */
+
+.contactContainer {
+  background-image: url("../../assets/contactsection.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #cccccc;
+  padding: 6rem 0rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.contactHeading {
+  color: white;
+  font-size: 3.2rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  /* letter-spacing:0rem; */
+}
+.contactPara {
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 400;
+  text-transform: lowercase;
+}
